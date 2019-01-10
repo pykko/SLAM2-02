@@ -5,8 +5,8 @@ public class ManipulationDates {
 		DateFr dateCourante , dateFinJuillet ;
 		boolean estAvant , estApres , estIdentique ;
 		
-		dateCourante = new DateFr( 4 , 7 , 2019 ) ;
-		dateFinJuillet = new DateFr( 31 , 7 , 2019 ) ;
+		dateCourante = new DateFr( 4 , 7 , 2018 ) ;
+		dateFinJuillet = new DateFr( 31 , 7 , 2018 ) ;
 		
 		// Ici, l'instruction de la question 4
 		// System.out.println( "[Question 4] Date manipulée : " + ... ) ;
